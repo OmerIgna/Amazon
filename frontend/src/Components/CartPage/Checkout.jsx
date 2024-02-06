@@ -3,7 +3,6 @@ import { Button, Card, ListGroup, PropTypes } from "../../imports";
 const Checkout = ({ cartItems, checkOutHandler }) => {
   return (
     <Card>
-      <br></br>
       <Card.Body>
         <ListGroup>
           <ListGroup.Item>
